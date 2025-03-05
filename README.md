@@ -1,1 +1,1 @@
-# a.badarin.github.io
+# badarin.github.io
